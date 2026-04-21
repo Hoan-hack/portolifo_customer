@@ -1,4 +1,4 @@
-declare module 'gsap-trial/SplitText' {
+declare module 'gsap/SplitText' {
   export default class SplitText {
     constructor(target: any, config?: any);
     chars: any[];
@@ -10,7 +10,7 @@ declare module 'gsap-trial/SplitText' {
   }
 }
 
-declare module 'gsap-trial/ScrollSmoother' {
+declare module 'gsap/ScrollSmoother' {
   export class ScrollSmoother {
     constructor(config?: any);
     static create(config?: any): ScrollSmoother;

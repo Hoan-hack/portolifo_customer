@@ -8,7 +8,11 @@
       "Bash(pkill -f \"vite\")",
       "WebSearch",
       "Bash(git add *)",
-      "Bash(git commit -m 'Initial commit: Portfolio website with Vite, React, Three.js *)"
+      "Bash(git commit -m 'Initial commit: Portfolio website with Vite, React, Three.js *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "WebFetch(domain:vercel.com)",
+      "Bash(git commit *)"
     ],
     "additionalDirectories": [
       "/private/tmp/moncy-repo"
