@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(timeout 5 npm run dev)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(pkill -f \"vite\")",
+      "WebSearch",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Initial commit: Portfolio website with Vite, React, Three.js *)"
+    ],
+    "additionalDirectories": [
+      "/private/tmp/moncy-repo"
+    ]
+  }
+}
