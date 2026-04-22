@@ -12,7 +12,9 @@
       "Bash(git remote *)",
       "Bash(git push *)",
       "WebFetch(domain:vercel.com)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "WebFetch(domain:blenderartists.org)",
+      "WebFetch(domain:community.spline.design)"
     ],
     "additionalDirectories": [
       "/private/tmp/moncy-repo"
